@@ -2,6 +2,8 @@
 name = "heisspot"
 license = "MIT"
 description = "Tiny Rust WlanAPI library"
+homepage = "https://github.com/doroshtapgh/heisspot"
+repository = "https://github.com/doroshtapgh/heisspot"
 readme = "README.md"
 version = "0.1.0"
 edition = "2021"
